@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b22dd21d-5dfb-4007-a71f-527c30bfaee4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/backend-dotm-search-assessment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/backend-dotm-search-assessment.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dotm_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/dotm_search.py" afterDir="false" />
     </list>
@@ -17,8 +16,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dotm_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="18" />
+            <state relative-caret-position="-132">
+              <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+              <folding>
+                <element signature="e#195#204#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,6 +50,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -59,7 +62,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -91,17 +93,19 @@
       <updated>1550617658966</updated>
       <workItem from="1550617662572" duration="261000" />
       <workItem from="1550627181308" duration="2893000" />
-      <workItem from="1550684194962" duration="900000" />
+      <workItem from="1550684194962" duration="1777000" />
+      <workItem from="1550709217425" duration="380000" />
+      <workItem from="1550769264516" duration="1942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4054000" />
+    <option name="totallyTimeSpent" value="7253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="40" width="1400" height="837" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2569956" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -130,8 +134,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dotm_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="18" />
+        <state relative-caret-position="-132">
+          <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+          <folding>
+            <element signature="e#195#204#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
