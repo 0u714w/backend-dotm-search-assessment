@@ -43,9 +43,7 @@ def main():
     dir = args.dir
     if dir:
         search_text(character, dir)
-    else:
-        print('{} is not a directory').format(args.dir)
-        print('Please provide a directory to be searched.')
+
 
 
 if __name__ == '__main__':
