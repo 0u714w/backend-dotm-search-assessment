@@ -16,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dotm_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+            <state relative-caret-position="162">
+              <caret line="25" column="72" lean-forward="true" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
               <folding>
                 <element signature="e#195#204#0" expanded="true" />
               </folding>
@@ -26,6 +26,11 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,8 +43,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="492" />
-    <option name="y" value="23" />
+    <option name="x" value="28" />
+    <option name="y" value="34" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
   </component>
@@ -59,11 +64,6 @@
               <item name="backend-dotm-search-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="backend-dotm-search-assessment" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="backend-dotm-search-assessment" type="b2602c69:ProjectViewProjectNode" />
-              <item name="backend-dotm-search-assessment" type="462c0819:PsiDirectoryNode" />
-              <item name="dotm_files" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -74,6 +74,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,18 +110,19 @@
       <workItem from="1550769264516" duration="2765000" />
       <workItem from="1550856561126" duration="23000" />
       <workItem from="1551296961034" duration="501000" />
-      <workItem from="1553012656042" duration="1612000" />
+      <workItem from="1553012656042" duration="5648000" />
+      <workItem from="1553021237450" duration="539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10212000" />
+    <option name="totallyTimeSpent" value="14787000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="492" y="23" width="1400" height="837" extended-state="0" />
+    <frame x="28" y="34" width="1400" height="837" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27540502" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2790869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -142,10 +149,30 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dotm_files/P036US.dotm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/P036US.dotm" />
+    <entry file="file://$PROJECT_DIR$/TM014US.dotm" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dotm_files/TW998.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/dotm_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
+        <state relative-caret-position="162">
+          <caret line="25" column="72" lean-forward="true" selection-start-line="25" selection-start-column="72" selection-end-line="25" selection-end-column="72" />
           <folding>
             <element signature="e#195#204#0" expanded="true" />
           </folding>

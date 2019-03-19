@@ -20,23 +20,19 @@ def search_text(character, path):
     files_matched = 0
     os.chdir(path)
     files = glob.glob('*.dotm')
-    txt_files = glob.glob('*.txt')
     for file in files:
         files_searched += 1
-        zipped_file = zipfile.ZipFile(file, 'r')
-        zip_read = zipped_file.read('word/document.xml')
-        if character in zip_read:
-            index = zip_read.index(character)
-            files_matched += 1
-            output = 'Match found in file ' + file + '\n' + '...{}...'.format(zip_read[index - 40: index + 40])
-            print(output)
-    for file in txt_files:
-        files_searched += 1
-        files_matched += 1
+        with zipfile.ZipFile(file, 'r') as zipped_file:
+            with zipped_file.open('word/document.xml', 'r') as zip_read:
+                for text in zip_read:
+                    if character in text:
+                        index = text.index(character)
+                        files_matched += 1
+                        output = 'Match found in file ' + file + '\n' + '...{}...'.format(text[index - 40: index + 40])
+                        print(output)
 
     print('Total files searched: {}').format(files_searched)
     print('Total items matched: {}').format(files_matched)
-
 
 
 def main():
