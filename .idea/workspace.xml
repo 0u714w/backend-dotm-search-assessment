@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b22dd21d-5dfb-4007-a71f-527c30bfaee4" name="Default Changelist" comment="" />
+    <list default="true" id="b22dd21d-5dfb-4007-a71f-527c30bfaee4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dotm_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/dotm_search.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dotm_search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="29" column="111" selection-start-line="29" selection-start-column="111" selection-end-line="29" selection-end-column="111" />
+            <state relative-caret-position="279">
+              <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
               <folding>
                 <element signature="e#195#204#0" expanded="true" />
               </folding>
@@ -35,7 +38,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="40" />
+    <option name="x" value="492" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="837" />
   </component>
@@ -54,6 +58,11 @@
             <path>
               <item name="backend-dotm-search-assessment" type="b2602c69:ProjectViewProjectNode" />
               <item name="backend-dotm-search-assessment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="backend-dotm-search-assessment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="backend-dotm-search-assessment" type="462c0819:PsiDirectoryNode" />
+              <item name="dotm_files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,17 +101,21 @@
       <workItem from="1550627181308" duration="2893000" />
       <workItem from="1550684194962" duration="1777000" />
       <workItem from="1550709217425" duration="380000" />
-      <workItem from="1550769264516" duration="2377000" />
+      <workItem from="1550769264516" duration="2765000" />
+      <workItem from="1550856561126" duration="23000" />
+      <workItem from="1551296961034" duration="501000" />
+      <workItem from="1553012656042" duration="1612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7688000" />
+    <option name="totallyTimeSpent" value="10212000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="40" width="1400" height="837" extended-state="0" />
+    <frame x="492" y="23" width="1400" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26435935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27540502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -131,8 +144,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dotm_search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="29" column="111" selection-start-line="29" selection-start-column="111" selection-end-line="29" selection-end-column="111" />
+        <state relative-caret-position="279">
+          <caret line="38" column="4" selection-start-line="38" selection-start-column="4" selection-end-line="38" selection-end-column="4" />
           <folding>
             <element signature="e#195#204#0" expanded="true" />
           </folding>
